@@ -1,16 +1,20 @@
 import java.util.Set;
 
+import controller.ContactoController;
 import controller.Sets;
-
+import utils.ContactoComparator;
 public class App {
     public static void main(String[] args) throws Exception {
-        Sets set = new Sets();
+        //Sets set = new Sets();
         System.out.println("EINAR KAALHUS");
-        runHashSet(set);
-        runLinkedHashSet(set);
-        runTreeSet(set);
-        runTreeSetComparator(set);
-        runTreeSetComparatorRevez(set);
+        //runHashSet(set);
+        //runLinkedHashSet(set);
+        //runTreeSet(set);
+       // runTreeSetComparator(set);
+        //runTreeSetComparatorRevez(set);
+        
+
+        ContactoController contactoController = new ContactoController();
     }
 
     public static void runHashSet(Sets sets){

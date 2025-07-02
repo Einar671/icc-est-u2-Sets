@@ -4,4 +4,9 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ]
+
+ ,"background.editor": {
+        "useFront": false,
+        "loop":true,
+    }
 }

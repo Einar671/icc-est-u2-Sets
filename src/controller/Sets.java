@@ -68,7 +68,7 @@ public class Sets{
         palabras.add("Pera");
         palabras.add("Laptop");
         palabras.add("Celulas");
-
+//commit
         return palabras;
     }
         public Set<String> construirTreeSetConComparadorReves(){

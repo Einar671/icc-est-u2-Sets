@@ -69,6 +69,8 @@ Laptop
 Pera
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
 ✅ Conclusiones
 Este proyecto ilustra las características fundamentales de las diferentes implementaciones de Set en Java:
 

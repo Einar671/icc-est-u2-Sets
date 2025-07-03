@@ -67,11 +67,12 @@ Celular
 Celulas
 Laptop
 Pera
-
+#Practica 1
 ![alt text](image.png)
-
+#Practica 2
 ![alt text](image-1.png)
-
+#Practica 3
+![alt text](image-2.png)
 ✅ Conclusiones Este proyecto ilustra las características fundamentales de las diferentes implementaciones de Set en Java:
 
 HashSet: No garantiza ningún orden específico de los elementos; el orden puede variar en cada ejecución. Es ideal para operaciones de adición, eliminación y búsqueda rápidas (tiempo promedio O(1)).
